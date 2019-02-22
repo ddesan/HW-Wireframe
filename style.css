@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    margin: 0% auto;
+}
+.Header-main{
+    margin: 1% auto;
+    background: #ebebeb;
+    height: 75px;
+}
+#titulo{
+    text-align: center;
+    padding: 28px;
+}
+.Nav-main{
+    margin: 1% auto;
+    background: #ebebeb;
+    height: 75px;
+}
