@@ -16,7 +16,44 @@ body{
     padding: 28px;
 }
 .Nav-main{
-    margin: 1% auto;
+    margin: 0% auto;
     background: #ebebeb;
     height: 75px;
 }
+.Section-main{
+    margin: 1% auto;
+    background: #ebebeb;
+    height: 300px;
+    width: 49%;
+    float: left;
+    border-color: grey;
+}
+#titulo-body{
+    text-align: center;
+    padding: 30px;
+}
+.Aside-main{
+    margin: 1% auto;
+    background: #ebebeb;
+    height: 300px;
+    width: 49%;
+    float: right;
+    border-color: grey;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: inline-table;
+  }
+.article{
+      text-align: center;
+      color: #ebebeb;
+      background: #777;
+      width: 100px;
+  }
+  .Footer-main{
+    margin: 1% auto;
+    background: #ebebeb;
+    height: 75px;
+    clear: both;
+  }
